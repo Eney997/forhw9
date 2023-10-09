@@ -1,5 +1,6 @@
 @media (width > 1440px){
    .boxes {
+    margin-top: -32px;
     display: grid;
     place-items: center;
     column-gap: 30px;
@@ -64,6 +65,7 @@
         width: 540px;
     }
     .text1 {
+        
         color: #4D4F62;
         font-size: 36px;
         font-weight: 275;
